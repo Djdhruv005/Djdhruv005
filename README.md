@@ -72,15 +72,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djdhruv005&show_icons=true&theme=radical&hide_border=true" alt="Dhruv's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Djdhruv005&theme=radical&hide_border=true" alt="Dhruv's GitHub Streak" width="48%" />
-</div>
-
-<br>
-
 <div align="center">
   <i>⭐ If you like my projects, feel free to star the repositories! Let's connect and build something amazing.</i>
 </div>
