@@ -6,7 +6,7 @@
   
   *Passionate about building real-world tech solutions that solve meaningful problems.*
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel)](https://dhruvportfolio-plum.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel)](https://dhruv-portfolio-orpin.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruv-bitspilani)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail)](mailto:djdhruv05082003@gmail.com)
 
